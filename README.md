@@ -1,4 +1,6 @@
-[![MasterHead](file:///C:/Users/Omkar%20Pawar/Downloads/Github%20Banner.svg)]
+<div align="center">
+<img src="https://github.com/omkarpawar7000/omkarpawar7000/assets/114140769/0905bb2b-3542-484a-9eef-abe2994bc947" alt="github banner">
+</div>
 <h1 align="center">Hi 👋, I'm Omkar Pawar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding_gif" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
