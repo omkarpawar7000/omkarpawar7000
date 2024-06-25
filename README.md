@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/omkarpa89742249" target="blank"><img src="https://img.shields.io/twitter/follow/omkarpa89742249?logo=twitter&style=for-the-badge" alt="omkarpa89742249" /></a> </p>
 
-- 🔭 I’m currently working on **Video Conferencing App**
+- 🔭 I’m currently working on **E-commerce Shop**
 
 - 🌱 I’m currently learning **AngularJS, Firebase**
 
